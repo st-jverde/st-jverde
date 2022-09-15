@@ -2,7 +2,7 @@
 
 As a recent graduate of Le Wagon's full-stack web development Bootcamp, I aim to start my career in the tech industry. 
 
-My main interests are subjects surrounding innovation, sustainability, nature and mental/physical health. Besides that, I enjoy experimenting with the combination of fine arts, sound design and computer programming. Thus, I would love to learn more about AI and computer learning. I'm absolutely open to collaborate on projects with other artists and programmers. 
+My main interests are subjects surrounding innovation, sustainability, nature and mental/physical health. Besides that, I enjoy experimenting with the combination of fine arts, sound design and computer programming. Thus, I would love to learn more about AI and machine learning. I'm absolutely open to collaborate on projects with other artists and programmers. 
 
 📫 How to reach me **joeriverdegaal@gmail.com**
 
