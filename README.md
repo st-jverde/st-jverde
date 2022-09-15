@@ -1,6 +1,8 @@
 <h3 align="left">Hi 👋, I'm Joeri Verdegaal</h3>
 
-As a recent graduate of Le Wagon's full-stack web development Bootcamp, I aim to start my career in the tech industry by looking for an entry-level position. The Bootcamp focused mainly on developing web applications with Ruby on Rails, HTML, CSS and JavaScript. However, I look forward to developing my skills and learning new languages in the future.
+As a recent graduate of Le Wagon's full-stack web development Bootcamp, I aim to start my career in the tech industry. 
+
+My main interests are subjects surrounding innovation, sustainability, nature and mental/physical health. Besides that, I enjoy experimenting with the combination of fine arts, sound design and computer programming. Thus, I would love to learn more about AI and computer learning. I'm absolutely open to collaborate on projects with other artists and programmers. 
 
 📫 How to reach me **joeriverdegaal@gmail.com**
 
