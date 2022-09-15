@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Joeri Verdegaal</h1>
-<h3 align="center">Junior Full-Stack Developer based in Amsterdam, NL</h3>
+<h3 align="left">Hi 👋, I'm Joeri Verdegaal</h3>
 
-- 🌱 As a recent graduate of Le Wagon's full-stack web development Bootcamp, I aim to start my career in the tech industry by looking for an entry-level position. The Bootcamp focused mainly on developing web applications with Ruby on Rails, HTML, CSS and JavaScript. However, I look forward to developing my skills and learning new languages in the future.
+As a recent graduate of Le Wagon's full-stack web development Bootcamp, I aim to start my career in the tech industry by looking for an entry-level position. The Bootcamp focused mainly on developing web applications with Ruby on Rails, HTML, CSS and JavaScript. However, I look forward to developing my skills and learning new languages in the future.
 
-- 📫 How to reach me **joeriverdegaal@gmail.com**
+📫 How to reach me **joeriverdegaal@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
