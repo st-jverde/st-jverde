@@ -15,8 +15,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=st-jverde&show_icons=true&locale=en&layout=compact" alt="st-jverde" /></p>
 
+<!---
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=st-jverde&show_icons=true&locale=en" alt="st-jverde" /></p>
-
+--->
 
 <!---
 st-jverde/st-jverde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
