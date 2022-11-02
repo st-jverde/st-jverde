@@ -8,7 +8,6 @@ My main interests are subjects surrounding innovation, sustainability, nature an
 
 <h3 align="left">Portfolio:</h3>
 <a href="https://st-jverde.github.io/portfolio-joeri-verdegaal/" target="blank">st-jverde.github.io/portfolio-joeri-verdegaal</a>
-</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
