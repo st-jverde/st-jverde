@@ -2,9 +2,6 @@
 
 📫 How to reach me **joeriverdegaal@gmail.com**
 
-<h3 align="left">Portfolio:</h3>
-<a href="https://st-jverde.github.io/portfolio-joeri-verdegaal/" target="blank">st-jverde.github.io/portfolio-joeri-verdegaal</a>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/joeri-verdegaal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joeri-verdegaal" height="30" width="40" /></a>
