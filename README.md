@@ -1,5 +1,6 @@
 <h3 align="left">Hi 👋, I'm Joeri Verdegaal</h3>
-<p align="left">Front-end Developer | Focused on React & JavaScript | Sound Artist & Creative Coder</p>
+<p align="left">Front-end Developer | Specialized in React & JavaScript | Foundation in Ruby on Rails</p>
+<p align="left">Sound Designer & Creative Coder with Tone.js</p>
 <p align="left">Connect with me:</p>
 <ul>
   <li>
