@@ -1,8 +1,9 @@
 <h3 align="left">Hi 👋, I'm Joeri Verdegaal</h3>
 <p align="left">Front-end Developer | Specialized in React & JavaScript | Foundation in Ruby on Rails</p>
 <p align="left">Sound Designer & Creative Coder with Tone.js</p>
-
-<a href="https://zen-time.netlify.app" target="blank">Project: Zen Time - Meditation timer with sound guidance</a>
+<h3>
+  <a href="https://joeri-verdegaal.netlify.app" target="blank">Portfolio</a>
+</h3>
 <hr>
 <h3 align="left">Connect with me:</h3>
 <ul>
