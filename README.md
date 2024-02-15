@@ -2,7 +2,7 @@
 <p align="left">Front-end Developer | Specialized in React & JavaScript | Foundation in Ruby on Rails</p>
 <p align="left">Sound Designer & Creative Coder with Tone.js</p>
 <h3>
-  <a href="https://joeri-verdegaal.netlify.app" target="blank">Portfolio</a>
+  <a href="https://zen-time.netlify.app" target="blank">Project: Zen Time</a>
 </h3>
 <hr>
 <h3 align="left">Connect with me:</h3>
